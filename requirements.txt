@@ -1,0 +1,9 @@
+langchain
+langchainhub
+bs4
+boto3==1.34.37
+tiktoken
+openai
+langchain_community
+chromadb
+awscli
